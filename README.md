@@ -16,6 +16,16 @@ Run the tests:
 
 	tox
 
+## Run locally in docker
+
+Build the container:
+
+	make build
+
+Run the tests in it (uses the values in .env)
+
+	make run-docker
+
 ## Dependency management
 
 This project uses [pip-tools](https://github.com/jazzband/pip-tools) to lock
