@@ -9,4 +9,5 @@ fsspec
 pytest
 python-dotenv
 pip-tools
-
+pre-commit
+tox
