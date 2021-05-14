@@ -1,0 +1,13 @@
+# pangeo tools
+zarr
+xarray
+dask
+gcsfs
+fsspec
+
+# tooling
+pytest
+python-dotenv
+pip-tools
+pre-commit
+tox
